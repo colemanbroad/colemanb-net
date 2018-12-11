@@ -1,0 +1,37 @@
+body {
+ max-width:650px;
+ margin:40px auto;
+ padding:0 10px;
+ /*font-size:1.2em;*/
+ /*font-family: -apple-system,BlinkMacSystemFont,"avenir next",avenir,"Segoe UI","lucida grande","helvetica neue",helvetica,"Fira Sans",roboto,noto,"Droid Sans",cantarell,oxygen,ubuntu,"franklin gothic medium","century gothic","Liberation Sans",sans-serif;*/
+ color:#444
+}
+h1,h2,h3 {
+ line-height:1.2
+}
+h1 {
+ text-transform: uppercase;
+}
+code {
+	color:#4e9fe3
+}
+
+p code {
+    /*width: 30em;*/
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+#contact p{
+	font-family: helvetica;
+	padding: 0px;
+	margin: 0px;
+	line-height: 1.2;
+}
+
+#contact a{
+	font-family: helvetica;
+	padding: 0px;
+	margin: 0px;
+	line-height: 1.2;
+}
