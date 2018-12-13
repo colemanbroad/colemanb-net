@@ -13,7 +13,7 @@ Pfotenhauerstraße 108
 coleman.broaddus [at] gmail.com  
 broaddus [at] mpi-cbg.de  
 <a href="https://twitter.com/colemanb">@colemanb</a>  
-[github.com/colemanbroad](github.com/colemanbroad)  
+[github.com/colemanbroad](https://www.github.com/colemanbroad)  
 [google scholar](https://scholar.google.de/citations?user=Mg5hbr4AAAAJ&hl=en)  
 </div>
 
