@@ -1,11 +1,23 @@
-<link rel="stylesheet" type="text/css" href="resume.css">
+<link rel="stylesheet" type="text/css" href="docs/main.css">
+
+<img src="docs/imgs/canada_1.png" style="float: right; width: 200px">
 
 # Coleman Broaddus
 
------------------     ----------------------------
-Regerstraße 2         coleman.broaddus@gmail.com
-Dresden, DE 01309
------------------     ----------------------------
+<div id="address">
+Regerstraße 2  
+Dresden, DE 01309  
+</div>
+
+<div id="contact">
+coleman.broaddus [at] gmail.com  
+broaddus [at] mpi-cbg.de  
+[@colemanb](https://twitter.com/colemanb)  
+[github.com/colemanbroad](github.com/colemanbroad)  
+[google scholar](https://scholar.google.de/citations?user=Mg5hbr4AAAAJ&hl=en)  
+</div>
+
+<div style="clear: right;"></div>
 
 # Education
 
@@ -16,6 +28,8 @@ Dresden, DE 01309
 :   __MSc, Nanobiophysics__; Dresden University of Technology (Dresden, DE)
 
     _Thesis title: Pattern formation in chemically reactive, phase-separating systems_
+
+    A man a plan a canal. wtf
 
 2015-present
 :   __Phd, Computer Science__; Max Planck Institute for Molecular Cell Biology and Genetics (Dresden, DE)
