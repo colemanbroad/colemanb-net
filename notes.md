@@ -1,10 +1,7 @@
-<link rel="stylesheet" type="text/css" href="docs/main.css">
-
-<img src="docs/imgs/canada_1_128.png" style="display: block; margin: 10px auto;">
-
-# TODO
+# Todo
 
 - add posters
+- link to public Dropbox talks?
 - add links to github projects (next to publications)
 - links to writings? dl_cluster, etc?
 
