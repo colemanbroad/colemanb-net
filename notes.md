@@ -5,6 +5,11 @@
 - add links to github projects (next to publications)
 - links to writings? dl_cluster, etc?
 
+# BUGS
+
+- contact section should be helvetica
+
+
 # Good examples
 
 - [http://research.uweschmidt.org/](http://research.uweschmidt.org/)
